@@ -1,0 +1,28 @@
+* {
+  font-family: Arial;
+}
+.cuerpo-pagina {
+  background-image: linear-gradient(
+    to right,
+    #d9ed92,
+    #b5e48c,
+    #99d98c,
+    #76c893
+  );
+}
+.titulo {
+  font-size: 40px;
+  text-align: center;
+}
+.contenedor {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: auto;
+}
+.tabla {
+  border: 1px solid;
+}
+.logo {
+  width: 25px;
+}
